@@ -1,5 +1,9 @@
-### Hi there ... working on this profile intro. 👋
+### Hi ... working on this profile intro. 👋
 
+- 🔭 I’m currently working on projects for RBN Energy and Caurus Commuications.  AI language models and IOT Sensor Data Management
+
+- 📫 How to reach me: becwilson@outlook.com
+-
 <!--
 **BecWilson/BecWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
